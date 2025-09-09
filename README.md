@@ -26,7 +26,7 @@ The dashboard provides insights into content distribution, trends, and top categ
 ---
 
 ## 🖼️ Dashboard Preview
-![Amazon Prime Dashboard](assets/prime_dashboard.png)
+![Amazon Prime Dashboard](assets/dashboard_image.png)
 
 ---
 
